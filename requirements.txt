@@ -1,0 +1,6 @@
+tesseract
+pytesseract
+opencv-python
+pillow
+tensorflow
+keras
